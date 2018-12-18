@@ -1,6 +1,6 @@
 
-# Stop lying to yourself.
+# Stop lying to yourself
 
 * Including python/java/c++ 
-* Algorighms
+* Algorithms
 * Data Structures
